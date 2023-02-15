@@ -1,3 +1,4 @@
+# for semintic program
 from sentence_transformers import SentenceTransformer, util
 import time
 
